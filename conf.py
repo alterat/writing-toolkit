@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Tono di voce"
+settings_project_name = "Writing toolkit"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'tono-di-voce'
-settings_file_name = 'tono-di-voce'
+settings_basename = 'writing-toolkit'
+settings_file_name = 'writing-toolkit'
 
 # -- No need to change below here
 
@@ -109,7 +109,7 @@ def setup(app):
         'enable_auto_doc_ref': True
     }, True)
     app.add_transform(AutoStructify)
-
+    app.add_stylesheet('css/test.css')  # may also be an URL
 
 # -- Options for HTML output ----------------------------------------------
 html_theme = 'docs-italia-theme'
@@ -137,7 +137,8 @@ else:
     html_context = {
         'css_files': [
             '_static/css/theme.css',
-            '_static/css/table.css',
+            '_static/css/badge_only.css',
+            '_static/css/test.css',
         ],
     }
 

@@ -1,40 +1,23 @@
-Blog
-====
+Blog (layout 1)
+===============
 
 
-.. sidebar:: Approccio
+.. admonition:: Cosa vuole l'utente?
 
-   - tono colloquiale;
-   - offri informazioni rilevanti;
-   - cerca di essere utile. 
-   
-.. topic:: L'utente
-
-   "Leggo periodicamente il blog perché ci trovo diverse opportunità e notizie interessanti sulle nuove iniziative"
-
-
-.. admonition:: Sentimenti dell'utente
+   *Leggo periodicamente il blog perché ci trovo diverse opportunità e notizie interessanti sulle nuove iniziative*
 
    - curiosità
    - fiducia
    - ricerca di informazioni generiche
    - ricerca di opportunità
    
-.. sidebar:: Approccio
+.. admonition:: Quale linguaggio deve usare la PA?
 
    - tono colloquiale;
    - offri informazioni rilevanti;
    - cerca di essere utile. 
    
-.. topic:: La risposta
-
    Il tuo blog è considerato un luogo affidabile dove trovare informazioni e opportunità. Usa un tono colloquiale, diretto e informale (puoi anche concederti una battuta, siamo in un’area informale della tua comunicazione!). Ogni post dovrebbe offrire al lettore qualcosa di nuovo: una notizia, uno spunto, una risorsa. 
-   
-.. sidebar:: Approccio
-
-   - tono colloquiale;
-   - offri informazioni rilevanti;
-   - cerca di essere utile. 
    
 .. admonition:: Esempio
 
