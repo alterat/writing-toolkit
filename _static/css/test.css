@@ -3,6 +3,7 @@
 	padding: 0.6em;
 	position: relative;
 	background: #00c5ca;
+	/* border-radius: .4em; */
 	margin-bottom: 40px;
 }
 .admonition-cittadino:after {
@@ -30,7 +31,7 @@
 	padding: 0.6em;
 	position: relative;
 	background: #00c5ca;
-	border-radius: .4em;
+	/* border-radius: .4em; */
 	margin-bottom: 40px;
 }
 .admonition-pa:after {
