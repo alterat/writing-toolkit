@@ -1,5 +1,5 @@
-A
-=
+A (layout 1)
+============
 
 .. glossary::
 
