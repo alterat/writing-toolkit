@@ -6,9 +6,9 @@ Nomi dei ministeri
 
 Di regola, solo la prima iniziale è maiuscola:
 
-- Ministero della difesa
+- Ministero della difesa;
 
-- Ministero delle politiche agricole alimentari e forestali
+- Ministero delle politiche agricole alimentari e forestali.
 
 Riferimenti normativi
 ---------------------
