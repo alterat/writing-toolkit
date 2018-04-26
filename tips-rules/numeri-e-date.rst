@@ -6,6 +6,8 @@ Date
 
 Scegli la forma: “01 gennaio 2018”.
 
+I giorni della settimana e i mesi si scrivono con la lettera minuscola (es. lunedì "15 marzo")
+
 Euro, euri, EUR, €
 ------------------
 
