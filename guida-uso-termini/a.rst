@@ -6,16 +6,13 @@ A
    abrogare (abrogazione)
         Limita l’uso di questo termine ai contesti normativi. Usa invece “eliminare” in contesti più divulgativi. 
 
+
    adempiere (adempimento)
         Preferisci l’uso di termini più semplici. 
 
-        **Usa**
+        **Usa**: *Per metterti in regola con gli obblighi vaccinali dovrai...*
 
-        *Per metterti in regola con gli obblighi vaccinali dovrai...*
-
-        **Non usare**
-
-        *Regolarizzazione iscrizioni per adempiere agli obblighi vaccinali...*
+        **Non usare**: *Regolarizzazione iscrizioni per adempiere agli obblighi vaccinali...*
 
    Agenda digitale (italiana)
         Solo la prima lettera è maiuscola.
