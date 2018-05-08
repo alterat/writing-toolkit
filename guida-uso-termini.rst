@@ -1,11 +1,24 @@
 Guida all'uso dei termini
 #########################
 
+In questa guida trovi una selezione di termini associati alla Pubblica Amministrazione che generano spesso dubbi di ortografia. Abbiamo elencato anche diversi esempi di termini tipici del contesto burocratico della Pubblica Amministrazione (cosiddetto “burocratese”) che possono essere sostituiti con parole più semplici senza perdere significato. 
+
+Usa la buca di ricerca per trovare risposte ai tuoi dubbi!
+
+Questo elenco è per definizione parziale, puoi aiutarci a completarlo. 
+
+- Vai al forum
+
+- Invia una proposta di modifica su GitHub
+
+In alcuni casi esistono più alternative corrette relative alla grafia di un singolo termine. Abbiamo preferito fare una scelta, per favorire la diffusione di uno standard.
+
+
 .. toctree::
    :maxdepth: 1
 
    guida-uso-termini/a.rst
-   guida-uso-termini/a-2.rst
+   guida-uso-termini/b.rst
    guida-uso-termini/c.rst
    guida-uso-termini/d.rst
    guida-uso-termini/e.rst
