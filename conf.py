@@ -85,7 +85,8 @@ if on_rtd:  # only import and set the theme if we're building docs locally
 # -- Options for HTML output ----------------------------------------------
 html_theme = 'docs-italia-theme'
 html_theme_options = {
-    "includehidden": "true"
+    "includehidden": "True",
+    'collapse_navigation': 'True',
 }
 
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
