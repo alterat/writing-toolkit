@@ -22,14 +22,20 @@ In alcuni casi esistono più alternative corrette relative alla grafia di un sin
    guida-uso-termini/c.rst
    guida-uso-termini/d.rst
    guida-uso-termini/e.rst
+   guida-uso-termini/f.rst
    guida-uso-termini/g.rst
+   guida-uso-termini/h.rst
+   guida-uso-termini/i.rst
    guida-uso-termini/l.rst
    guida-uso-termini/m.rst
+   guida-uso-termini/n.rst
    guida-uso-termini/o.rst
    guida-uso-termini/p.rst
    guida-uso-termini/r.rst
    guida-uso-termini/s.rst
    guida-uso-termini/t.rst
    guida-uso-termini/u.rst
+   guida-uso-termini/v.rst
+   guida-uso-termini/w.rst
 
 

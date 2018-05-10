@@ -11,9 +11,11 @@ A
    adempiere (adempimento)
         Preferisci l’uso di termini più semplici. 
 
-        **Usa**: *Per metterti in regola con gli obblighi vaccinali dovrai...*
+        **Usa**
+           *Per metterti in regola con gli obblighi vaccinali dovrai...*
 
-        **Non usare**: *Regolarizzazione iscrizioni per adempiere agli obblighi vaccinali...*
+        **Non usare**
+           *Regolarizzazione iscrizioni per adempiere agli obblighi vaccinali...*
 
         |
 
