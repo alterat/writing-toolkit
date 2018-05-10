@@ -9,7 +9,7 @@ E
         |
    
    email
-        Si scrive senza trattini o spazi, in minuscolo. Vedi anche `ulteriori suggerimenti <#email-1>`__.
+        Si scrive senza trattini o spazi, in minuscolo. Vedi anche `ulteriori suggerimenti <../suggerimenti-di-scrittura/come-strutturare-il-contenuto.html#email>`__.
 
         |
    

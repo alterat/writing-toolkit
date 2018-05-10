@@ -1,30 +1,41 @@
 Termini ricorrenti
 ==================
 
-Nomi dei ministeri
-------------------
+Cariche istituzionali
+---------------------
 
-Di regola, solo la prima iniziale è maiuscola:
+Usa l’iniziale minuscola per indicare cariche istituzionali (sindaco, giudice, assessore, ministro) tranne in alcune eccezioni (es. Presidente della Repubblica, Presidente del Consiglio dei ministri).
 
-- Ministero della difesa;
+Nomi dei ministeri e dei dipartimenti
+-------------------------------------
 
-- Ministero delle politiche agricole alimentari e forestali.
+Sebbene nell’uso corrente si faccia in genere un ampio ricorso alle maiuscole per indicare i nomi dei ministeri e di altre strutture istituzionali, di regola solo la prima iniziale è maiuscola:
+
+-  Ministero della difesa
+
+-  Ministero delle politiche agricole alimentari e forestali
+
+-  Dipartimento della protezione civile
+
+La stessa regola vale per gli acronimi.
 
 Riferimenti normativi
 ---------------------
 
-Cerca di rendere chiaro il testo, evita troppi riferimenti normativi. 
+Cerca di rendere chiaro il testo, evita troppi riferimenti normativi.
 
-Quando fai riferimento ad una disposizione di legge, spiegane sinteticamente il contenuto invece che citarla testualmente, per rendere più semplice la comprensione. Meglio far capire lo spirito e le intenzioni della normativa che usare del linguaggio legale.
+Quando fai riferimento a una disposizione di legge:
 
-Quando dei precisi riferimenti normativi sono obbligatori o necessari puoi:
+-  spiegane sinteticamente e in modo discorsivo il contenuto invece che citarla testualmente, per rendere più semplice la comprensione. Meglio far capire lo spirito e le intenzioni della normativa che usare del linguaggio legale;
 
-- includerli tra parentesi;
+-  dopo il testo scrivi una nota con un breve estratto del testo e il nome della norma per esteso;
 
-- elencarli dopo il testo;
+-  evita comunque un linguaggio tecnico (ex ART. 20 comma 2 e 3 della legge n. 247/2012);
 
-- scriverne la fonte per esteso: “Secondo il Testo Unico in materia di dati sulla privacy (D.Lgs. 169 del 30 giugno 2003)”;
+-  aggiungi sempre il link alla norma di riferimento.
 
-- evitare comunque un linguaggio tecnico (ex ART. 20 comma 2 e 3 della legge n. 247/2012)
+**Usa**
+   *Testo Unico in materia di dati sulla privacy (D.Lgs. 169 del 30 giugno 2003), art. 4 lett. d).*
 
-Dove possibile aggiungi il link alla norma.
+I dati sensibili sono “i dati personali idonei a rivelare l’origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l’adesione a partiti, sindacati, associazioni od organizzazioni a carattere religioso, filosofico, politico o sindacale, nonché i dati personali idonei a rivelare lo stato di salute e la vita sessuale”
+

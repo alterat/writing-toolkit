@@ -4,38 +4,60 @@ Scrivere per i motori di ricerca
 Didascalie
 ----------
 
-Accompagna sempre le immagini con delle didascalie sintetiche (non più di due righe). Ricorda, `quando necessario <http://design-italia.readthedocs.io/it/stable/doc/content-design/linguaggio.html#immagini>`_, di:
+Accompagna sempre le immagini con delle didascalie sintetiche (non più di due righe). Ricorda, `quando necessario <http://design-italia.readthedocs.io/it/stable/doc/content-design/linguaggio.html#immagini>`__, di:
 
-- citare l’autore;
+-  citare l’autore;
 
-- riportare la licenza di pubblicazione.
+-  riportare la licenza di pubblicazione.
+
+Parole chiave
+-------------
+
+Crea una lista delle parole chiave che definiscono gli argomenti del tuo sito, elimina i sinonimi, cerca di usare i termini più semplici possibili. Usa questa lista per costruire i menu di navigazione del tuo sito e per classificare i tuoi contenuti (per esempio usandoli come tag quando scrivi articoli).
+
+Per individuare i termini che sono più cercati dagli utenti usa `Google Trends <https://trends.google.it/trends/>`__.
 
 Sommari
 -------
 
-Il sommario è un testo breve che sintetizza il contenuto della pagina in modo chiaro. I sommari dovrebbero:
+Il sommario è un testo breve che riassume in modo chiaro il contenuto della pagina.
 
-- non superare i 140 caratteri; 
+Il sommario dovrebbe:
 
-- finire con il punto;
+-  essere presente in tutte le pagine;
 
-- non ripetere il contenuto del titolo o del testo;
+-  non superare i 150 caratteri;
 
-- essere chiari e specifici.
+-  finire con il punto;
+
+-  non ripetere il contenuto del titolo o del testo;
+
+-  essere chiaro e specifico.
 
 Titoli
 ------
 
-I titoli della pagina dovrebbero:
+I titoli della pagina devono spiegare bene il contenuto della pagina in massimo 65 caratteri. È possibile scrivere un testo più lungo solo se essenziale per rendere il titolo chiaro, ma deve essere un’eccezione in quanto:
 
-- non superare i 65 caratteri;
+-  Google taglia i testi che superano i 65 caratteri;
 
-- essere chiari, descrittivi e non ripetersi;
+-  Titoli troppo lunghi sono difficili da capire;
 
-- essere incisivi e ottimizzati per la ricerca;
+Il titolo dovrebbe inoltre:
 
-- non contenere caratteri speciali;
+-  essere chiaro e descrittivo dei contenuti della pagina;
 
-- non avere il punto alla fine;
+-  essere incisivo e ottimizzato per la ricerca;
 
-- non usare acronimi.
+-  non contenere caratteri speciali;
+
+-  non avere il punto alla fine;
+
+-  non usare acronimi.
+
+**Usa**
+   *Riduci, riusa, ricicla: come gestire i rifiuti a Venezia*
+
+**Non usare**
+   *Io riduco, riuso, riciclo*
+

@@ -13,4 +13,6 @@ Suggerimenti di scrittura
    suggerimenti-di-scrittura/regole-di-formattazione.rst
    suggerimenti-di-scrittura/termini-ricorrenti.rst
    suggerimenti-di-scrittura/punteggiatura-e-grammatica.rst
+   suggerimenti-di-scrittura/usabilita.rst
+   suggerimenti-di-scrittura/gestione-dei-contenuti.rst
    
