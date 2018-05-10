@@ -1,60 +1,75 @@
 Stile di scrittura
 ==================
 
-Marchi
-------
+Acronimi 
+---------
 
-Evita l’utilizzo di marchi: quando non necessario è meglio usare nomi generici.
+Gli acronimi non aiutano la comprensione del testo: evitali il più possibile.
 
-- *È possibile utilizzare il servizio attraverso l’applicazione per smartphone o tablet*
+Quando gli acronimi sono molto diffusi, di facile comprensione e il loro utilizzo può rendere più semplice il testo, ricorda che:
 
-- *Scarica l’app per iOS; Scarica l’app per Android*
+-  le sigle, anche se di uso comune, vanno usate solo dopo aver scritto il nome completo per esteso nello stesso contenuto: “Il bando è stato pubblicato dal Ministero dello sviluppo economico (Mise). Il Mise ha anche anche reso noto…”
+
+-  di regola solo la prima lettera è maiuscola: “Mipaaf” per “Ministero delle politiche agricole, alimentari e forestali”. Tra le eccezioni più frequenti: “PA” per “Pubblica Amministrazione”; “UE” per “Unione Europea”; “IVA” per “Imposta a valore aggiunto”.
+
+Linguaggio breve e semplice
+---------------------------
+
+Usa uno stile semplice, breve e conciso, arriva subito al punto. Evita frasi e paragrafi troppo lunghi. Considera che il tuo testo sarà letto la maggior parte delle volte sul piccolo schermo di un telefono.
 
 Parole straniere
 ----------------
 
-- Usa quando possibile i termini in italiano. 
+-  Preferisci quando possibile i termini in italiano.
 
-- Usa il corsivo quando non sono termini di uso comune, a meno che non siano usati in un contesto tecnico o specialistico. 
+-  Usa il corsivo quando non sono termini di uso comune, a meno che non siano usati in un contesto tecnico o specialistico.
 
-- Le parole straniere non si declinano mai: “l’amministrazione ha comprato dieci tablet”, non “l’amministrazione ha comprato dieci tablets”.
+-  Le parole straniere non si declinano mai: “l’amministrazione ha comprato dieci tablet”, non “l’amministrazione ha comprato dieci *tablets*”.
 
-Sigle e acronimi
-----------------
+Nomi di servizi e progetti
+--------------------------
 
-Le sigle e gli acronimi non aiutano una facile comprensione del testo: cerca di evitarli, dove possibile. Quando sono necessari ricorda che: 
+Usa nomi semplici e generici per chiamare i servizi e i progetti: non serve creare un *brand* per ogni nuovo servizio, meglio usare diciture descrittive, di immediata comprensione.
 
-- le sigle, anche se di uso comune, vanno usate solo dopo aver scritto il nome completo per esteso nello stesso contenuto: “Il bando è stato pubblicato dal Ministero dello sviluppo economico (Mise). Il Mise ha anche anche reso noto...”
+**Usa**
+   *Servizio di assistenza del Comune*
 
-- di regola solo la prima lettera è maiuscola: “Mipaaf” per “Ministero delle politiche agricole, alimentari e forestali”. Tra le eccezioni più frequenti: “PA” per “Pubblica Amministrazione”; “UE” per “Unione Europea”; “IVA” per “Imposta a valore aggiunto”.
+**Non usare**
+   *Linea amica*
+
+Simboli
+-------
+
+Anche se simboli come “&” o “%” possono rendere il testo più breve, spesso rendono più difficile la lettura. Meglio scrivere per esteso (es. “Il 50 per cento degli abitanti” - vedi anche: numeri e percentuali).
 
 Verbi
 -----
 
 Scegli forme verbali che contribuiscano a rendere il testo più chiaro possibile.
 
-- Utilizza forme verbali attive: 
+-  Utilizza forme verbali attive:
 
-  **Usa**
-          “Registrati sul sito”
+   **Usa**
+      *Registrati sul sito.*
 
-  **Non usare**
-          “La registrazione può essere effettuata sul sito”
+   **Non usare**
+      *La registrazione può essere effettuata sul sito.*
+
+-  Scegli forme colloquiali e dirette:
+
+   **Usa**
+      *Scarica il bando per la richiesta dei contributi.*
+
+      
+   **Non usare**
+      *Il cittadino interessato può reperire il bando per la richiesta di contributi in questa sezione.*
+
+-  Mantieni un linguaggio semplice, diretto e chiaro, evitando forme impersonali:
+
+   **Usa**
+      *Iscriviti sul sito del comune.*
+
+   **Non usare**
+      *È possibile iscriversi sul sito del comune.*
 
 
-- Scegli forme colloquiali e dirette:
-
-  **Usa**
-          “Scarica il bando per la richiesta dei contributi”
-
-  **Non usare**
-          “Il cittadino interessato può reperire il bando per la richiesta di contributi in questa sezione”
-
-
-- Mantieni un linguaggio semplice, diretto e chiaro, evitando forme impersonali:
-
-  **Usa**
-          “Iscriviti sul sito del comune”
-          
-  **Non usare**
-          “È possibile iscriversi sul sito del comune”
