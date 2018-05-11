@@ -1,7 +1,7 @@
-Blog tecnico
-============
+Scrivere e leggere un blog tecnico della Pubblica Amministrazione
+=================================================================
 
-.. topic:: Scrivere e leggere un blog tecnico della Pubblica Amministrazione
+.. topic:: Sommario
    :class: question-and-answers
 
    Attraverso un blog tecnico la Pubblica Amministrazione può raccontare novità e iniziative rivolgendosi direttamente ai cittadini. 
