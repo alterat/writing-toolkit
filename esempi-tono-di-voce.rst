@@ -6,3 +6,9 @@ Esempi di tono di voce
 
    esempi-tono-di-voce/blog-tecnico.rst
    esempi-tono-di-voce/conferma-pagamento.rst
+   esempi-tono-di-voce/proposta-metodo-pagamento.rst
+   esempi-tono-di-voce/registrarsi-sito-web.rst
+   esempi-tono-di-voce/recuperare-credenziali-accesso-servizio.rst
+   esempi-tono-di-voce/fare-ricerca-su-sito.rst
+   esempi-tono-di-voce/area-personale-storico-pagamenti.rst
+   esempi-tono-di-voce/area-personale-promemoria-pagamenti-futuri.rst

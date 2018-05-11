@@ -26,7 +26,7 @@ Pagare un servizio online: conferma del pagamento
 
    .. glossary::
 
-      Curiosità
+      Attesa
            L’utente aspetta un segnale ufficiale per essere certo della corretta conclusione dell’operazione
 
       Incertezza
