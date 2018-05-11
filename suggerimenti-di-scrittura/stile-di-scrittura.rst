@@ -12,10 +12,14 @@ Quando gli acronimi sono molto diffusi, di facile comprensione e il loro utilizz
 
 -  di regola solo la prima lettera è maiuscola: “Mipaaf” per “Ministero delle politiche agricole, alimentari e forestali”. Tra le eccezioni più frequenti: “PA” per “Pubblica Amministrazione”; “UE” per “Unione Europea”; “IVA” per “Imposta a valore aggiunto”.
 
+|
+
 Linguaggio breve e semplice
 ---------------------------
 
 Usa uno stile semplice, breve e conciso, arriva subito al punto. Evita frasi e paragrafi troppo lunghi. Considera che il tuo testo sarà letto la maggior parte delle volte sul piccolo schermo di un telefono.
+
+|
 
 Parole straniere
 ----------------
@@ -25,6 +29,8 @@ Parole straniere
 -  Usa il corsivo quando non sono termini di uso comune, a meno che non siano usati in un contesto tecnico o specialistico.
 
 -  Le parole straniere non si declinano mai: “l’amministrazione ha comprato dieci tablet”, non “l’amministrazione ha comprato dieci *tablets*”.
+
+|
 
 Nomi di servizi e progetti
 --------------------------
@@ -37,10 +43,14 @@ Usa nomi semplici e generici per chiamare i servizi e i progetti: non serve crea
 **Non usare**
    *Linea amica*
 
+|
+
 Simboli
 -------
 
 Anche se simboli come “&” o “%” possono rendere il testo più breve, spesso rendono più difficile la lettura. Meglio scrivere per esteso (es. “Il 50 per cento degli abitanti” - vedi anche: numeri e percentuali).
+
+|
 
 Verbi
 -----

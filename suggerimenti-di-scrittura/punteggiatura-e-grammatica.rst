@@ -6,6 +6,8 @@ Esempio o es.
 
 Nel testo è meglio scriverlo per esteso: “per esempio”. Se lo usi tra parentesi, puoi scegliere la forma abbreviata (es. come in questo caso).
 
+|
+
 Maiuscole / minuscole
 ---------------------
 
@@ -22,6 +24,8 @@ In generale usa iniziali minuscole, tranne quando si tratta di nomi propri o di 
 -  riferimenti specifici a leggi e normative;
 
 -  casi in cui sono specificamente richieste le maiuscole (es. Unione Europea).
+
+|
 
 Punto e virgola / punto / due punti
 -----------------------------------

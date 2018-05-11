@@ -10,12 +10,16 @@ Accompagna sempre le immagini con delle didascalie sintetiche (non più di due r
 
 -  riportare la licenza di pubblicazione.
 
+|
+
 Parole chiave
 -------------
 
 Crea una lista delle parole chiave che definiscono gli argomenti del tuo sito, elimina i sinonimi, cerca di usare i termini più semplici possibili. Usa questa lista per costruire i menu di navigazione del tuo sito e per classificare i tuoi contenuti (per esempio usandoli come tag quando scrivi articoli).
 
 Per individuare i termini che sono più cercati dagli utenti usa `Google Trends <https://trends.google.it/trends/>`__.
+
+|
 
 Sommari
 -------
@@ -33,6 +37,8 @@ Il sommario dovrebbe:
 -  non ripetere il contenuto del titolo o del testo;
 
 -  essere chiaro e specifico.
+
+|
 
 Titoli
 ------

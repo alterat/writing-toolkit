@@ -12,12 +12,16 @@ Non scrivere mai “Pagina in aggiornamento” o “Questa pagina non è aggiorn
 
 Quando fai un aggiornamento rilevante del contenuto di una pagina, segnalalo agli utenti con delle note.
 
+|
+
 Contenuti obsoleti
 ------------------
 
 Non lasciare pubblicati i contenuti obsoleti del tuo sito.
 
 Nel caso di contenuti trasferiti in una nuova versione del sito o in un’altra sezione, usa dei *redirect* per non perdere l’indicizzazione e indirizzare gli utenti che arrivano dai motori di ricerca verso i contenuti che stanno cercando.
+
+|
 
 Revisiona i contenuti
 ---------------------

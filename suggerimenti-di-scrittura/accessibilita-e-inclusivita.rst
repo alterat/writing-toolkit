@@ -7,12 +7,16 @@ Captcha
 
 Prevedi dei controlli di verifica antispam (captcha) che non siano basati solo su immagini, audio o distinzione di colori.
 
+|
+
 Dimensione del carattere
 ------------------------
 
 Evita di proporre contenuti o interfacce che utilizzino caratteri troppo piccoli e quindi poco visibili o leggibili.
 
 Per la scelta e le dimensioni del carattere, consulta `il kit per la User interface di Designers Italia <https://designers.italia.it/kit/ui-kit/>`__.
+
+|
 
 Disabilità
 ----------
@@ -35,10 +39,14 @@ Parla di “persone con disabilità”, evita invece formule come “diversament
 
 Vedi anche `email <come-strutturare-il-contenuto.html#email>`_ e `Numeri di telefono <come-strutturare-il-contenuto.html#numeri-di-telefono>`_.
 
+|
+
 Gergo / linguaggio tecnico
 --------------------------
 
 Usa termini tecnici solo quando sei certo che il pubblico a cui ti rivolgi sia in grado di capirne il significato. In alternativa preferisci dei sinonimi; se non è possibile spiega il significato del termine in modo chiaro e conciso.
+
+|
 
 Identità culturale
 ------------------
@@ -51,6 +59,8 @@ Usa i termini più appropriati per distinguere correttamente tra persone richied
 **Non usare**
    *L’incidente ha coinvolto due marocchini.*
 
+|
+
 Pulsanti di navigazione
 -----------------------
 
@@ -61,6 +71,8 @@ Ogni pulsante dovrebbe basarsi sempre su combinazioni di forme, colori e testo. 
 
 **Non usare**
    *Clicca qui*
+
+|
 
 Inclusività del linguaggio
 --------------------------
@@ -74,6 +86,8 @@ Quando crei contenuti (per es. immagini o testi) che riguardano le persone, evit
 
 Vedi anche `Identità culturale <#identità-culturale>`__.
 
+|
+
 Testo alternativo / Alt text
 ----------------------------
 
@@ -84,6 +98,8 @@ Il testo alternativo (contenuto nell’attributo “alt” dell’html) serve a 
 -  descrittivo del contenuto, non troppo generico;
 
 -  coerente con le parole chiave del testo.
+
+|
 
 Traduzioni
 ----------

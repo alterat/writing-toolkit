@@ -6,6 +6,8 @@ Cariche istituzionali
 
 Usa l’iniziale minuscola per indicare cariche istituzionali (sindaco, giudice, assessore, ministro) tranne in alcune eccezioni (es. Presidente della Repubblica, Presidente del Consiglio dei ministri).
 
+|
+
 Nomi dei ministeri e dei dipartimenti
 -------------------------------------
 
@@ -18,6 +20,8 @@ Sebbene nell’uso corrente si faccia in genere un ampio ricorso alle maiuscole 
 -  Dipartimento della protezione civile
 
 La stessa regola vale per gli acronimi.
+
+|
 
 Riferimenti normativi
 ---------------------

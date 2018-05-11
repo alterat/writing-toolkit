@@ -22,6 +22,8 @@ Usa un elenco numerato quando devi guidare le persone in un processo. In questo 
 
 Evita sottoelenchi puntati. Se necessario, crea piuttosto un nuovo elenco puntato.
 
+|
+
 .. _email-1:
 
 email
@@ -35,10 +37,14 @@ Si scrive senza trattini o spazi, in minuscolo. Inserisci gli indirizzi email co
 **Non usare**
    :code:`mario.rossi@comune.it`
 
+|
+
 Faq
 ---
 
 Se le pagine del tuo sito spiegano in modo chiaro e sintetico le informazioni che gli utenti cercano non è necessario creare delle Faq, che finirebbero solo per duplicare i contenuti. Se ci sono domande frequenti, invece di creare delle Faq mischiando diversi argomenti in una sezione separata del sito, adegua il contenuto delle tue pagine per soddisfare la richiesta e le reali esigenze di informazione degli utenti.
+
+|
 
 Immagini
 --------
@@ -55,6 +61,8 @@ Nel caso di utilizzo di una immagine:
 
 Per approfondire, leggi `la sezione dedicata alle immagini delle Linee guida di design della Pubblica Amministrazione <http://design-italia.readthedocs.io/it/stable/doc/content-design/linguaggio.html#immagini>`__.
 
+|
+
 Link 
 -----
 
@@ -69,6 +77,8 @@ L’utilizzo dei link è molto utile per rendere un testo breve e rimandare ad a
 
 **Non usare**
    Leggi `qui <#>`__ la scheda di sintesi "Rapporto sull'attuazione del Servizio Civile: anno 2017"
+
+|
 
 Menu di navigazione
 -------------------
@@ -87,6 +97,8 @@ Nei menu usa etichette di navigazione tenendo sempre in considerazione il punto 
 **Non usare**
    *Imprese*
 
+|
+
 .. _tel-1:
 
 Numeri di telefono
@@ -101,6 +113,8 @@ Quando pubblichi un numero usa anche il prefisso internazionale; raggruppa le ci
 
 **Non usare**
    06 12345678
+
+|
 
 Paragrafi
 ---------

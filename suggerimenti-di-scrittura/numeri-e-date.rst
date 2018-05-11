@@ -8,6 +8,8 @@ Scegli la forma: “01 gennaio 2018”.
 
 I giorni della settimana e i mesi si scrivono con la lettera minuscola (es. lunedì 15 marzo).
 
+|
+
 Euro, euri, EUR, €
 ------------------
 
@@ -16,6 +18,8 @@ Nei contenuti testuali, usa la forma estesa (es. “250 euro”).
 Nelle tabelle, usa il simbolo “€” dopo la cifra, separato da uno spazio (es. “250 €”).
 
 Il plurale di “euro” non è scorretto, anche se il singolare è preferibile.
+
+|
 
 Numeri 
 -------
@@ -34,6 +38,8 @@ I numeri che precedono “mille”, “mila”, “milione” e “miliardo” s
 
 -  la produzione ha superato i 3 miliardi e 400 milioni di pezzi.
 
+|
+
 Numeri romani
 -------------
 
@@ -43,6 +49,8 @@ Usali per:
 
 -  indicare i secoli.
 
+|
+
 Percentuali
 -----------
 
@@ -50,6 +58,8 @@ Puoi usare il simbolo % all’interno di tabelle, o per contenuti matematici, sc
 
 **Usa**
    *La popolazione è aumentata del 3 per cento.*
+
+|
 
 Unità di misura
 ---------------

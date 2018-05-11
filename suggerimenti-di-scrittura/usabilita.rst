@@ -6,6 +6,8 @@ Card
 
 L’utilizzo di una galleria di card può essere un buon modo per visualizzare in una stessa pagina dei contenuti molto diversi tra loro (articoli, gallery, video, schede).
 
+|
+
 Messaggi di conferma
 --------------------
 
@@ -25,6 +27,8 @@ Quando il messaggio di conferma prevede un’ulteriore azione da parte dell’ut
 
    *Invia Annulla*
 
+|
+
 Messaggi di errore
 ------------------
 
@@ -40,10 +44,14 @@ All’interno di form o di procedure guidate, prepara con attenzione i messaggi 
 **Non usare**
    *Errore*
 
+|
+
 Micro-copy
 ----------
 
 Accompagna la compilazione di un form inserendo dei brevi testi di istruzione o di esempio, per rendere più chiaro che tipo di informazioni sono richieste agli utenti in un campo specifico o il modo in cui utilizzare gli elementi dell’interfaccia.
+
+|
 
 Pagine vuote
 ------------
