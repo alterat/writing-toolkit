@@ -22,7 +22,7 @@ Registrarsi su un sito web
       Se non vuoi farlo adesso potrai farlo in un secondo momento, dalle impostazioni del tuo profilo personale.
 
      - :term:`Trasparenza`
-     - :term:`Efficienza`
+     - :term:`Chiarezza`
 
 
    .. glossary::
@@ -36,5 +36,5 @@ Registrarsi su un sito web
       Trasparenza
            Spiega in parole semplici lo scopo dei dati richiesti
 
-      Efficienza
+      Chiarezza
            Spiega l’utilità dei dati facoltativi e permetti di compilarli in un secondo momento

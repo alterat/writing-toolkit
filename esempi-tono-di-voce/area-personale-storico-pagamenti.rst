@@ -17,7 +17,7 @@ Area personale: storico dei pagamenti
 
       Questo è l’elenco completo dei tuoi pagamenti. Seleziona dal calendario le date del periodo che ti interessa per restringere i risultati.
 
-     - :term:`Affidabilità`
+     - :term:`Solidità`
      - :term:`Supporto`
 
 
@@ -26,7 +26,7 @@ Area personale: storico dei pagamenti
       Ansia
            L’utente non è certo di poter recuperare il suo documento
            
-      Affidabilità
+      Solidità
            Mostra subito la completezza dei dati disponibile sul profilo personale
 
       Supporto

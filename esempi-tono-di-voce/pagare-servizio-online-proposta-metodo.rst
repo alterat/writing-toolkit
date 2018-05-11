@@ -11,8 +11,8 @@ Pagare un servizio online: proposta del metodo
 
       La Pubblica Amministrazione ha un servizio di pagamento online: sarà sicuro o mi conviene andare allo sportello?   
 
-     - :term:`Attenzione`
-     - :term:`Preoccupazione`
+     - :term:`Concentrazione`
+     - :term:`Perplessità`
 
 
    .. pull-quote:: amministrazione
@@ -20,19 +20,19 @@ Pagare un servizio online: proposta del metodo
       Benvenuto nel sistema di pagamento ufficiale della Pubblica Amministrazione. I nostri sistemi aggiornati garantiscono la sicurezza dei tuoi dati. [Leggi di più]
 
      - :term:`Affidabilità`
-     - :term:`Rassicurazione`
+     - :term:`Sicurezza`
 
 
    .. glossary::
 
-      Attenzione
+      Concentrazione
            L’utente è concentrato, in cerca di informazioni precise
 
-      Preoccupazione
+      Perplessità
            L’utente non è certo della sicurezza del metodo di pagamento
            
       Affidabilità
            Il rafforzamento dell’identità ufficiale dell’amministrazione contribuisce a costruire la percezione di un sistema sicuro
 
-      Rassicurazione
+      Sicurezza
            Offrire un rimando a informazioni dettagliate sulla sicurezza aumenta la percezione della serietà dell’amministrazione su questo aspetto

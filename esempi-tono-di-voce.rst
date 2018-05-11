@@ -5,8 +5,8 @@ Esempi di tono di voce
    :maxdepth: 1
 
    esempi-tono-di-voce/blog-tecnico.rst
-   esempi-tono-di-voce/conferma-pagamento.rst
-   esempi-tono-di-voce/proposta-metodo-pagamento.rst
+   esempi-tono-di-voce/pagare-servizio-online-conferma-pagamento.rst
+   esempi-tono-di-voce/pagare-servizio-online-proposta-metodo.rst
    esempi-tono-di-voce/registrarsi-sito-web.rst
    esempi-tono-di-voce/recuperare-credenziali-accesso-servizio.rst
    esempi-tono-di-voce/fare-ricerca-su-sito.rst

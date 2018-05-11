@@ -19,7 +19,7 @@ Area personale: promemoria pagamenti futuri
       Per il prossimo mese non ci sono scadenze di pagamento. La prossima scadenza è tra due mesi: vuoi un promemoria via email? Seleziona la data in cui desideri riceverlo.
 
      - :term:`Aggiornamento`
-     - :term:`Efficienza`
+     - :term:`Precisione`
 
 
    .. glossary::
@@ -33,5 +33,5 @@ Area personale: promemoria pagamenti futuri
       Aggiornamento
            Proponi un sistema automatico e impostato dall’utente per ricevere notifiche utili 
 
-      Efficienza
+      Precisione
            Dai una risposta diretta sul breve periodo e visibilità a lungo termine sulle prossime azioni da compiere

@@ -13,14 +13,14 @@ Pagare un servizio online: conferma del pagamento
 
      - :term:`Attesa`
      - :term:`Incertezza`
-     - :term:`Preoccupazione`
+     - :term:`Dubbio`
 
 
    .. pull-quote:: amministrazione
 
       Perfetto, abbiamo ricevuto il tuo pagamento! Adesso puoi scaricare la ricevuta.
 
-     - :term:`Rassicurazione`
+     - :term:`Successo`
      - :term:`Certezza`
 
 
@@ -32,10 +32,10 @@ Pagare un servizio online: conferma del pagamento
       Incertezza
            In mancanza di un segnale ufficiale l’utente non ha chiaro se tutto è andato a buon fine
 
-      Preoccupazione
+      Dubbio
            L’incertezza sulla conclusione dell’operazione genera dubbi che rimangono irrisolti
               
-      Rassicurazione
+      Successo
            Il successo dell’operazione è sottolineato dall’entusiasmo anche nella punteggiatura
               
       Certezza
