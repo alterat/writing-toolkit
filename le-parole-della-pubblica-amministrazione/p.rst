@@ -3,6 +3,11 @@ P
 
 .. glossary::
 
+   Paese
+        L’iniziale è maiuscola quando ci si riferisce a una nazione in particolare, come sinonimo di Stato. In tutti gli altri casi è minuscola.
+
+        |
+   
    Parlamento
         L’iniziale è sempre maiuscola.
    
@@ -25,6 +30,16 @@ P
 
         |
    
+   Presidente del Consiglio dei ministri
+        Le iniziali di “Presidente” e “Consiglio” sono maiuscole.
+
+        |
+   
+   Presidente della Repubblica
+        Le iniziali di “Presidente” e “Repubblica” sono maiuscole.
+      
+        |
+
    Procura della Repubblica
         Entrambe le iniziali sono maiuscole.
 
@@ -41,20 +56,5 @@ P
         |
    
    pubblico ministero, PM
-        Entrambe le iniziali sono minuscole. L’acronimo è maiuscolo.
+        Nella versione estesa, entrambe le iniziali sono minuscole. L’acronimo è maiuscolo.
 
-        |
-   
-   Paese
-        L’iniziale è maiuscola quando ci si riferisce a una nazione in particolare, come sinonimo di Stato. In tutti gli altri casi è minuscola.
-
-        |
-   
-   Presidente del Consiglio dei ministri
-        Le iniziali di “Presidente” e “Consiglio” sono maiuscole.
-
-        |
-   
-   Presidente della Repubblica
-        Le iniziali di “Presidente” e “Repubblica” sono maiuscole.
-      

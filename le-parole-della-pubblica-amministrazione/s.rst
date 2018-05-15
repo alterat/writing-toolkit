@@ -28,13 +28,13 @@ S
 
         |
    
-   Stato
-        L’iniziale è maiuscola.
+   Stati membri
+        È maiuscola solo l’iniziale di “Stati”.
 
         |
    
-   Stati membri
-        È maiuscola solo l’iniziale di “Stati”.
+   Stato
+        L’iniziale è maiuscola.
 
         |
    

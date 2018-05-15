@@ -23,11 +23,6 @@ I
 
         |
    
-   Istat
-        Soltanto la prima lettera dell’acronimo è maiuscola.
-
-        |
-   
    interlocuzione 
         I cittadini non interloquiscono: parlano! Preferisci termini più semplici, quali “dialogo”, “discussione”, “consultazione”.
    
@@ -36,5 +31,8 @@ I
    
         **Non usare**
            *... l’interlocuzione con i cittadini e con le imprese ha dimostrato che negli anni si sono creati dei blocchi.*
+        
+        |
    
-      
+   Istat
+        Soltanto la prima lettera dell’acronimo è maiuscola.

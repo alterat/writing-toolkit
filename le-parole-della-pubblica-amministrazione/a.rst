@@ -50,6 +50,13 @@ A
 
         |
 
+   Anagrafe nazionale della popolazione residente, Anpr
+        Solo la prima lettera è maiuscola, anche nell’acronimo. 
+
+        Quando non fai riferimento specifico al progetto Anpr, parla semplicemente di “anagrafe nazionale”.
+
+        |
+
    Anas
         Azienda (ora Ente) nazionale autonoma per le strade. Solo la prima lettera è maiuscola. 
 
