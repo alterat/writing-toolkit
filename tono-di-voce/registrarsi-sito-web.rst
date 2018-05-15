@@ -1,11 +1,9 @@
 Registrarsi su un sito web
 ==========================
 
-.. topic:: Sommario
+.. topic:: La registrazione a un sito web è un passaggio chiave per poter utilizzare un servizio on line. Qual è lo stato d’animo dell’utente? Quale approccio può utilizzare l’Amministrazione?
    :class: question-and-answers
-
-   La registrazione a un sito web è un passaggio chiave per poter utilizzare un servizio on line. 
-   Qual è lo stato d’animo dell’utente? Quale approccio può utilizzare l’Amministrazione?
+   
    
    .. pull-quote:: utente
 

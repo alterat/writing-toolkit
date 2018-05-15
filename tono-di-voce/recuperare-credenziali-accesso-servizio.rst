@@ -1,11 +1,9 @@
 Recuperare le credenziali di accesso a un servizio
 ==================================================
 
-.. topic:: Sommario
+.. topic:: Alcuni servizi sono necessari al cittadino in maniera sporadica, e le credenziali d’accesso si possono smarrire facilmente. In che modo la Pubblica Amministrazione può proporre il recupero dei dati?
    :class: question-and-answers
-
-   Alcuni servizi sono necessari al cittadino in maniera sporadica, e le credenziali d’accesso si possono smarrire facilmente. 
-   In che modo la Pubblica Amministrazione può proporre il recupero dei dati?
+   
    
    .. pull-quote:: utente
 

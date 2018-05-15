@@ -1,11 +1,9 @@
 Pagare un servizio online: conferma del pagamento
 =================================================
 
-.. topic:: Sommario
+.. topic:: Ricevere conferma di un’azione andata a buon fine è rassicurante per il cittadino, e questo vale ancor più nel caso di un pagamento. Che tono può usare la Pubblica Amministrazione per comunicarlo?
    :class: question-and-answers
-
-   Ricevere conferma di un’azione andata a buon fine è rassicurante per il cittadino, e questo vale ancor più nel caso di un pagamento. 
-   Che tono può usare la Pubblica Amministrazione per comunicarlo? 
+    
    
    .. pull-quote:: utente
 

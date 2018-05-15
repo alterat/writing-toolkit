@@ -1,10 +1,9 @@
 Fare una ricerca su un sito (motore di ricerca)
 ===============================================
 
-.. topic:: Sommario
+.. topic:: L’utente utilizza il motore di ricerca quando ha bisogno di un’informazione precisa, sulla quale ha già delle idee abbastanza chiare. In che modo la Pubblica Amministrazione può agevolare le sue esigenze di rapidità ed efficienza?
    :class: question-and-answers
 
-   L’utente utilizza il motore di ricerca quando ha bisogno di un’informazione precisa, sulla quale ha già delle idee abbastanza chiare. In che modo la Pubblica Amministrazione può agevolare le sue esigenze di rapidità ed efficienza?
 
    .. pull-quote:: utente
 

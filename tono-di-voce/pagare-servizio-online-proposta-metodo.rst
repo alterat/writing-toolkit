@@ -1,11 +1,9 @@
 Pagare un servizio online: proposta del metodo
 ==============================================
 
-.. topic:: Sommario
+.. topic:: La possibilità di pagare un servizio online è un grande vantaggio per i cittadini in termini di tempo ed efficienza. Con che stato d’animo ci si avvicina? Quale linguaggio può aiutare la Pubblica Amministrazione a costruire fiducia rispetto a questa azione?
    :class: question-and-answers
-
-   La possibilità di pagare un servizio online è un grande vantaggio per i cittadini in termini di tempo ed efficienza. 
-   Con che stato d’animo ci si avvicina? Quale linguaggio può aiutare la Pubblica Amministrazione a costruire fiducia rispetto a questa azione?
+   
    
    .. pull-quote:: utente
 
