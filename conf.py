@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Writing toolkit"
+settings_project_name = "Guida al linguaggio della Pubblica Amministrazione"
 settings_copyright_copyleft = "CC-BY 3.0"
 settings_editor_name = "Team Digitale"
-settings_file_name = 'writing-toolkit'
+settings_file_name = 'guida-linguaggio-pubblica-amministrazione'
 
 
 import sys
