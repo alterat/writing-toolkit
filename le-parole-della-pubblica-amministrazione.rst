@@ -1,15 +1,19 @@
 Le parole della Pubblica Amministrazione
 ========================================
 
+.. highlights::
+
+   Un elenco di parole della Pubblica Amministrazione, che in forma di glossario spiega (senza pretese di esaustività) in che modo scrivere alcuni termini ricorrenti nei servizi pubblici.
+
 In questa guida trovi una selezione di termini associati alla Pubblica Amministrazione che generano spesso dubbi di ortografia. Abbiamo elencato anche diversi esempi di termini tipici del contesto burocratico della Pubblica Amministrazione (cosiddetto “burocratese”) che possono essere sostituiti con parole più semplici senza perdere significato. 
 
 Usa la buca di ricerca per trovare risposte ai tuoi dubbi!
 
 Questo elenco è per definizione parziale, puoi aiutarci a completarlo. 
 
-- Vai al forum
+- Vai al Forum
 
-- Invia una proposta di modifica su GitHub
+- Invia una proposta di modifica su `GitHub <https://github.com/italia/writing-toolkit>`_
 
 In alcuni casi esistono più alternative corrette relative alla grafia di un singolo termine. Abbiamo preferito fare una scelta, per favorire la diffusione di uno standard.
 
