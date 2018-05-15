@@ -1,11 +1,8 @@
 Scrivere e leggere un blog tecnico della Pubblica Amministrazione
 =================================================================
 
-.. topic:: Sommario
+.. topic:: Attraverso un blog tecnico la Pubblica Amministrazione può raccontare novità e iniziative rivolgendosi direttamente ai cittadini. Qual è lo stato d’animo di chi legge? Qual è il modo migliore per l’Amministrazione di scrivere questi contenuti?
    :class: question-and-answers
-
-   Attraverso un blog tecnico la Pubblica Amministrazione può raccontare novità e iniziative rivolgendosi direttamente ai cittadini. 
-   Qual è lo stato d’animo di chi legge? Qual è il modo migliore per l’Amministrazione di scrivere questi contenuti?
    
    .. pull-quote:: utente
 
