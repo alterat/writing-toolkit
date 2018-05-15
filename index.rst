@@ -1,11 +1,15 @@
-Writing toolkit
-===============
+##################################################
+Guida al linguaggio della Pubblica Amministrazione
+##################################################
 
+.. highlights::
+
+   Suggerimenti e strumenti per il linguaggio dei servizi digitali della Pubblica Amministrazione.
 
 
 .. toctree::
    :maxdepth: 1
 
-   guida-uso-termini.rst
+   le-parole-della-pubblica-amministrazione.rst
    suggerimenti-di-scrittura.rst
-   esempi-tono-di-voce.rst
+   tono-di-voce.rst
