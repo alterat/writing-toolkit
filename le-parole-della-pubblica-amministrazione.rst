@@ -17,9 +17,11 @@ Questo elenco è per definizione parziale, puoi aiutarci a completarlo.
 
 In alcuni casi esistono più alternative corrette relative alla grafia di un singolo termine. Abbiamo preferito fare una scelta, per favorire la diffusione di uno standard.
 
+|
 
 .. toctree::
    :maxdepth: 1
+   :caption: Che parola stai cercando?
 
    le-parole-della-pubblica-amministrazione/a.rst
    le-parole-della-pubblica-amministrazione/b.rst

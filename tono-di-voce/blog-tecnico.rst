@@ -14,7 +14,7 @@ Scrivere e leggere un blog tecnico della Pubblica Amministrazione
 
    .. pull-quote:: amministrazione
 
-      Nel nuovo blog post di Designers Italia ti raccontiamo come costruire un design system in dieci mosse e vivere felici.
+      Nel nuovo articolo di Designers Italia ti raccontiamo come costruire un design system in dieci mosse e vivere felici.
 
      - :term:`Autorevolezza`
      - :term:`Complicità`

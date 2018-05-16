@@ -29,10 +29,12 @@ Per partecipare alla sua evoluzione, puoi contribuire scrivendo sull’apposita
 sezione di Forum Italia, oppure creare delle issue e delle pull request
 direttamente su `GitHub <https://github.com/italia/writing-toolkit>`_.
 
+|
 
 .. toctree::
    :maxdepth: 1
-
+   :caption: Indice dei contenuti     
+   
    le-parole-della-pubblica-amministrazione.rst
    suggerimenti-di-scrittura.rst
    tono-di-voce.rst

@@ -29,9 +29,11 @@ Queste regole sono aperte a modifiche e nuovi spunti:
 
 - Invia una proposta di modifica su `GitHub <https://github.com/italia/writing-toolkit>`_
 
+|
 
 .. toctree:: 
    :maxdepth: 1
+   :caption: I nostri suggerimenti
 
    suggerimenti-di-scrittura/stile-di-scrittura.rst
    suggerimenti-di-scrittura/numeri-e-date.rst

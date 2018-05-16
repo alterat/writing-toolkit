@@ -25,9 +25,11 @@ Questi esempi sono aperti a modifiche e nuovi spunti:
 
 - Invia una proposta di modifica su `GitHub <https://github.com/italia/writing-toolkit>`_
 
+|
 
 .. toctree::
    :maxdepth: 1
+   :caption: Un tono di voce per ogni contesto
 
    tono-di-voce/blog-tecnico.rst
    tono-di-voce/pagare-servizio-online-conferma-pagamento.rst
