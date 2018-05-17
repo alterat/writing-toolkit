@@ -1,5 +1,5 @@
-Area personale: storico dei pagamenti
-=====================================
+Riepilogo dei pagamenti
+=======================
 
 .. topic:: Per il cittadino è importante poter contare su un archivio digitale delle proprie transazioni sempre disponibile e curato sul suo profilo nel sito della Pubblica Amministrazione. In che modo questa può trasmettere il senso di sicurezza e affidabilità del sistema?
    :class: question-and-answers

@@ -1,5 +1,5 @@
-Area personale: promemoria pagamenti futuri
-===========================================
+Promemoria dei pagamenti
+========================
 
 .. topic:: Ricordare le scadenze di pagamento verso la Pubblica Amministrazione è spesso fonte di preoccupazione e disorientamento per il cittadino. In che modo l’Amministrazione può comunicare gli aggiornamenti lasciando una sensazione di efficienza?
    :class: question-and-answers

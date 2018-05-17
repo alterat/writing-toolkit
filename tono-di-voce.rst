@@ -31,12 +31,12 @@ Questi esempi sono aperti a modifiche e nuovi spunti:
    :maxdepth: 1
    :caption: Un tono di voce per ogni contesto
 
-   tono-di-voce/blog-tecnico.rst
-   tono-di-voce/pagare-servizio-online-conferma-pagamento.rst
-   tono-di-voce/pagare-servizio-online-proposta-metodo.rst
-   tono-di-voce/registrarsi-sito-web.rst
-   tono-di-voce/recuperare-credenziali-accesso-servizio.rst
-   tono-di-voce/fare-ricerca-su-sito.rst
-   tono-di-voce/area-personale-storico-pagamenti.rst
-   tono-di-voce/area-personale-promemoria-pagamenti-futuri.rst
+   tono-di-voce/blog.rst
+   tono-di-voce/conferma-di-pagamento.rst
+   tono-di-voce/pagamento-online.rst
    tono-di-voce/primo-accesso-area-personale.rst
+   tono-di-voce/promemoria-dei-pagamenti.rst
+   tono-di-voce/recupero-nome-utente-password.rst
+   tono-di-voce/registrarsi-sito-web.rst
+   tono-di-voce/riepilogo-dei-pagamenti.rst
+   tono-di-voce/risultati-di-ricerca.rst
