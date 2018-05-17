@@ -37,7 +37,7 @@ Parole straniere
 Nomi di servizi e progetti
 --------------------------
 
-Usa nomi semplici e generici per chiamare i servizi e i progetti: non serve creare un *brand* per ogni nuovo servizio, meglio usare diciture descrittive, di immediata comprensione.
+Usa nomi semplici e generici per chiamare i servizi e i progetti: non serve creare un marchio per ogni nuovo servizio, meglio usare diciture descrittive, di immediata comprensione.
 
 **Usa**
    *Servizio di assistenza del Comune*
