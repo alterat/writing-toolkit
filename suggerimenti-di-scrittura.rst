@@ -3,9 +3,9 @@ Suggerimenti di scrittura
 
 .. highlights::
    
-   Suggerimenti di scrittura, dove puoi trovare indicazioni per scrivere,
-   strutturare, impaginare e gestire i tuoi contenuti, in modo da renderli
-   efficaci e di facile utilizzo per gli utenti.
+   Qui puoi trovare indicazioni per scrivere, strutturare, impaginare e gestire
+   i tuoi contenuti, in modo da renderli efficaci e di facile utilizzo per gli
+   utenti.
 
 In questa sezione trovi indicazioni per scrivere con uno stile semplice e
 chiaro, revisionare e gestire il contenuto nel modo più efficace, di immediata

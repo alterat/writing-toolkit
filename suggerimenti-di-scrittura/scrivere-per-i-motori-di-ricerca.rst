@@ -55,7 +55,7 @@ Il titolo dovrebbe inoltre:
 
 -  essere incisivo e ottimizzato per la ricerca;
 
--  non contenere caratteri speciali;
+-  non contenere caratteri speciali (inclusi slash e trattini);
 
 -  non avere il punto alla fine;
 
@@ -67,3 +67,6 @@ Il titolo dovrebbe inoltre:
 **Non usare**
    *Io riduco, riuso, riciclo*
 
+|
+
+Consulta anche la `Guida alla SEO <https://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html#titolo-del-contenuto>`_ nelle Linee guida di design.
