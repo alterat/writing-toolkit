@@ -21,6 +21,8 @@ Il plurale di “euro” non è scorretto, anche se il singolare è preferibile.
 
 |
 
+.. _numeri:
+
 Numeri 
 -------
 
@@ -50,6 +52,8 @@ Usali per:
 -  indicare i secoli.
 
 |
+
+.. _percentuali:
 
 Percentuali
 -----------

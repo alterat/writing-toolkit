@@ -19,7 +19,7 @@ Sebbene nell’uso corrente si faccia in genere un ampio ricorso alle maiuscole 
 
 -  Dipartimento della protezione civile
 
-La stessa regola vale per gli acronimi.
+La stessa regola vale per gli :ref:`acronimi <acronimi>`.
 
 |
 

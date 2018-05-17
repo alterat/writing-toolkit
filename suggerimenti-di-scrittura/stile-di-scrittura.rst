@@ -1,6 +1,8 @@
 Stile di scrittura
 ==================
 
+.. _acronimi:
+
 Acronimi 
 ---------
 
@@ -48,7 +50,7 @@ Usa nomi semplici e generici per chiamare i servizi e i progetti: non serve crea
 Simboli
 -------
 
-Anche se simboli come “&” o “%” possono rendere il testo più breve, spesso rendono più difficile la lettura. Meglio scrivere per esteso (es. “Il 50 per cento degli abitanti” - vedi anche: numeri e percentuali).
+Anche se simboli come “&” o “%” possono rendere il testo più breve, spesso rendono più difficile la lettura. Meglio scrivere per esteso (es. “Il 50 per cento degli abitanti” - vedi anche: :ref:`Numeri <numeri>` e :ref:`Percentuali <percentuali>`).
 
 |
 
