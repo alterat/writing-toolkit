@@ -1,13 +1,6 @@
 Usabilità
 =========
 
-Card
-----
-
-L’utilizzo di una galleria di card può essere un buon modo per visualizzare in una stessa pagina dei contenuti molto diversi tra loro (articoli, gallery, video, schede).
-
-|
-
 Messaggi di conferma
 --------------------
 
