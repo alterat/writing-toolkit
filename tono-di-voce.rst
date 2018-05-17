@@ -39,3 +39,4 @@ Questi esempi sono aperti a modifiche e nuovi spunti:
    tono-di-voce/fare-ricerca-su-sito.rst
    tono-di-voce/area-personale-storico-pagamenti.rst
    tono-di-voce/area-personale-promemoria-pagamenti-futuri.rst
+   tono-di-voce/primo-accesso-area-personale.rst

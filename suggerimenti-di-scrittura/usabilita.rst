@@ -18,14 +18,14 @@ Quando il messaggio di conferma prevede un’ulteriore azione da parte dell’ut
 **Usa**
    *Invia i tuoi dati*
 
-   *Premendo “Conferma” invii la tua richiesta e non potrai più modificare i dati*
+   *Premendo “Conferma” invierai la tua richiesta e non potrai più modificare i dati*
 
-   *Conferma Annulla*
+   ``Conferma     Annulla``
 
 **Non usare**
    *Confermi?*
 
-   *Invia Annulla*
+   ``Invia      Annulla``
 
 |
 
