@@ -7,7 +7,7 @@ Le parole della Pubblica Amministrazione
 
 In questa guida trovi una selezione di termini associati alla Pubblica Amministrazione che generano spesso dubbi di ortografia. Abbiamo elencato anche diversi esempi di termini tipici del contesto burocratico della Pubblica Amministrazione (cosiddetto “burocratese”) che possono essere sostituiti con parole più semplici senza perdere significato. 
 
-Usa la buca di ricerca per trovare risposte ai tuoi dubbi!
+Usa la casella di ricerca per trovare risposte ai tuoi dubbi!
 
 Questo elenco è per definizione parziale, puoi aiutarci a completarlo. 
 

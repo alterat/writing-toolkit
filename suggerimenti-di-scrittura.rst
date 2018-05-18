@@ -21,7 +21,7 @@ accorgimenti per migliorare il tuo approccio ai contenuti, mettendo al centro
 le esigenze degli utenti. 
 
 Puoi sfogliare le varie sezioni in cui abbiamo diviso i suggerimenti di
-scrittura, oppure usare la buca di ricerca.
+scrittura, oppure usare la casella di ricerca.
 
 Queste regole sono aperte a modifiche e nuovi spunti:
 

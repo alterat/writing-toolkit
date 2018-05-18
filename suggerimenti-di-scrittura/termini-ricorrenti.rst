@@ -36,7 +36,7 @@ Quando fai riferimento a una disposizione di legge:
 
 -  evita comunque un linguaggio tecnico (ex ART. 20 comma 2 e 3 della legge n. 247/2012);
 
--  aggiungi sempre il link alla norma di riferimento.
+-  aggiungi sempre il link alla norma di riferimento, per esempio usando il permalink alla norma su `Normattiva <http://www.normattiva.it/>`_.
 
 **Usa**
    *Testo Unico in materia di dati sulla privacy (D.Lgs. 169 del 30 giugno 2003), art. 4 lett. d).*

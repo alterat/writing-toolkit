@@ -54,10 +54,10 @@ Identità culturale
 Usa i termini più appropriati per distinguere correttamente tra persone richiedenti asilo politico, rifugiati, migranti irregolari (`approfondisci <https://www.cartadiroma.org/cosa-e-la-carta-di-roma/glossario/>`__). Evita ogni forma di generalizzazione legata a origine, etnia, religione e cultura.
 
 **Usa**
-   *L’incidente ha coinvolto due persone.*
+   *Nella notte sono sbarcate circa 30 persone.*
 
 **Non usare**
-   *L’incidente ha coinvolto due marocchini.*
+   *Nella notte sono sbarcati circa 30 clandestini.*
 
 |
 
